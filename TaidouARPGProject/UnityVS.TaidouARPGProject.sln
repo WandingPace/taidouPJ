@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.TaidouARPGProject.CSharp", "UnityVS.TaidouARPGProject.CSharp.csproj", "{44565FDB-8F49-5763-A04A-BAA8C8FD83FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.TaidouARPGProject.CSharp.Editor", "UnityVS.TaidouARPGProject.CSharp.Editor.csproj", "{90995261-02E9-565F-DA1B-B2694A2E0631}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.TaidouARPGProject.CSharp.Plugins", "UnityVS.TaidouARPGProject.CSharp.Plugins.csproj", "{B7ADD2B6-823C-199F-1F08-24D44FC77BB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44565FDB-8F49-5763-A04A-BAA8C8FD83FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44565FDB-8F49-5763-A04A-BAA8C8FD83FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44565FDB-8F49-5763-A04A-BAA8C8FD83FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44565FDB-8F49-5763-A04A-BAA8C8FD83FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90995261-02E9-565F-DA1B-B2694A2E0631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90995261-02E9-565F-DA1B-B2694A2E0631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90995261-02E9-565F-DA1B-B2694A2E0631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90995261-02E9-565F-DA1B-B2694A2E0631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7ADD2B6-823C-199F-1F08-24D44FC77BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7ADD2B6-823C-199F-1F08-24D44FC77BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7ADD2B6-823C-199F-1F08-24D44FC77BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7ADD2B6-823C-199F-1F08-24D44FC77BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

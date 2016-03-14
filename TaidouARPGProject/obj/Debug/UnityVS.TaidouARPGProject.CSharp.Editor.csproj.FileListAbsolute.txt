@@ -1,0 +1,1 @@
+F:\desk\taidouPJ\code\010-TaidouARPGProject\TaidouARPGProject\obj\Debug\UnityVS.TaidouARPGProject.CSharp.Editor.csprojResolveAssemblyReference.cache

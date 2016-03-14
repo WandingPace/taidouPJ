@@ -1,0 +1,11 @@
+F:\desk\taidouPJ\code\010-TaidouARPGProject\TaidouARPGProject\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+F:\desk\taidouPJ\code\010-TaidouARPGProject\TaidouARPGProject\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\desk\taidouPJ\code\010-TaidouARPGProject\TaidouARPGProject\Temp\UnityVS_bin\Debug\UnityEditor.dll
+F:\desk\taidouPJ\code\010-TaidouARPGProject\TaidouARPGProject\Temp\UnityVS_bin\Debug\UnityEngine.dll
+F:\desk\taidouPJ\code\010-TaidouARPGProject\TaidouARPGProject\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+F:\desk\taidouPJ\code\010-TaidouARPGProject\TaidouARPGProject\Temp\UnityVS_bin\Debug\UnityEngine.xml
+F:\desk\taidouPJ\code\010-TaidouARPGProject\TaidouARPGProject\Temp\UnityVS_bin\Debug\UnityEditor.xml
+F:\desk\taidouPJ\code\010-TaidouARPGProject\TaidouARPGProject\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+F:\desk\taidouPJ\code\010-TaidouARPGProject\TaidouARPGProject\obj\Debug\UnityVS.TaidouARPGProject.CSharp.Plugins.csprojResolveAssemblyReference.cache
+F:\desk\taidouPJ\code\010-TaidouARPGProject\TaidouARPGProject\obj\Debug\Assembly-CSharp-firstpass.dll
+F:\desk\taidouPJ\code\010-TaidouARPGProject\TaidouARPGProject\obj\Debug\Assembly-CSharp-firstpass.pdb
